@@ -2,7 +2,7 @@ Arena Game SQL Project:
 
 The ARENA database contains various tables describing the activity of an online gaming company.
 
-In this project, we analyze player payments across various categories and examine session durations in different games,
+In this project, I analyze player payments across various categories and examine session durations in different games,
 The goal is to gain insights into the profitability and trends of each game.
 
 This database contained:
